@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![GitHub ritmojs](https://img.shields.io/github/followers/ritmojs?label=follow&style=social)](https://github.com/ritmojs)
+[![GitHub RerezzOffc](https://img.shields.io/github/followers/ritmojs?label=follow&style=social)](https://github.com/ritmojs)
 
 </div>
 
