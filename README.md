@@ -3,17 +3,17 @@
 
 - 💬 Ask me about react, android,node,javascript.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ritmojs&label=Views&color=blue&style=plastic" alt="ritmojs" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RerezzOffc&label=Views&color=blue&style=plastic" alt="ritmojs" /> </p>
 
 <div align="center">
 
-[![GitHub RerezzOffc](https://img.shields.io/github/followers/ritmojs?label=follow&style=social)](https://github.com/ritmojs)
+[![GitHub RerezzOffc](https://img.shields.io/github/followers/ritmojs?label=follow&style=social)](https://github.com/RerezzOffc)
 
 </div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritmojs&theme=merko)](https://github.com/ritmojs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritmojs&theme=merko)](https://github.com/RerezzOffc)
 </div>
 
 
