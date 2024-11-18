@@ -34,6 +34,6 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kontak
 
-Untuk pertanyaan atau masukan, silakan hubungi saya di [email saya](mailto:your-email@example.com).
+Untuk pertanyaan atau masukan, silakan hubungi saya di [email saya](mailto:rerezzofficial@gmail.com.com).
 
 Terima kasih telah mengunjungi profil saya! Jangan lupa untuk memberi ⭐ pada proyek yang Anda suka!
