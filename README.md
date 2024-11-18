@@ -1,55 +1,51 @@
-# My Awesome Project
+# Project Name
 
-Selamat datang di **My Awesome Project**! Proyek ini memiliki beberapa fitur canggih yang akan mempermudah Anda dalam menggunakan aplikasi.
+Deskripsi singkat tentang proyek Anda, termasuk tujuan dan fungsinya.
 
-## Fitur Utama
+## Fitur
 
-### 1. **Deteksi Bahasa**
-Fitur deteksi bahasa akan secara otomatis mendeteksi bahasa teks yang dimasukkan oleh pengguna. Anda hanya perlu memasukkan teks, dan sistem akan menampilkan bahasa yang digunakan.
+- **Deteksi Bahasa Pemrograman**: Fitur ini memungkinkan untuk mendeteksi bahasa pemrograman yang digunakan dalam repositori ini.
+- **Deteksi Bahasa**: Fitur ini memungkinkan aplikasi untuk mendeteksi bahasa yang digunakan dalam teks atau input pengguna.
+- **Pengikut**: Menampilkan jumlah pengikut dan memberikan informasi seputar pengikut.
+- **Sosial Media**: Tautan ke berbagai platform sosial media dengan ikon untuk memudahkan pengunjung menghubungi atau mengikuti proyek di media sosial.
 
-### 2. **Pengikut (Followers)**
-Aplikasi ini memungkinkan pengguna untuk melihat jumlah pengikut (followers) mereka. Fitur ini mengintegrasikan API sosial media untuk mendapatkan informasi pengikut secara real-time.
+## Teknologi yang Digunakan
 
-### 3. **Sosial Media dengan Ikon**
-Proyek ini menampilkan ikon sosial media yang dapat diklik, yang akan mengarahkan pengguna ke akun sosial media yang sesuai.
+- **HTML/CSS/JS**: Untuk membangun halaman web yang responsif.
+- **Font Awesome**: Untuk menampilkan ikon sosial media.
+- **GitHub API**: Untuk mendeteksi bahasa pemrograman di repositori ini.
 
-## Instalasi
+## Demo
 
-Untuk memulai menggunakan proyek ini, ikuti langkah-langkah berikut:
+Tampilkan demo atau tangkapan layar proyek Anda di sini.
 
-1. **Clone repository ini:**
-    ```bash
-    git clone https://github.com/username/my-awesome-project.git
-    ```
+## Deteksi Bahasa Pemrograman
 
-2. **Masuk ke direktori proyek:**
-    ```bash
-    cd my-awesome-project
-    ```
+Repositori ini menggunakan berbagai bahasa pemrograman. Dengan memanfaatkan **GitHub API**, Anda dapat melihat bahasa yang digunakan dalam repositori ini.
 
-3. **Instal dependensi:**
-    Jika proyek ini menggunakan `npm` atau `yarn`, jalankan:
-    ```bash
-    npm install
-    ```
+### Cara Mendapatkan Bahasa dari Repositori
 
-4. **Jalankan aplikasi:**
-    Setelah semua dependensi terpasang, jalankan aplikasi menggunakan:
-    ```bash
-    npm start
-    ```
+Fitur ini menggunakan **GitHub API** untuk mengambil informasi tentang repositori dan mendeteksi bahasa yang digunakan dalam kode. Berikut adalah contoh implementasi menggunakan JavaScript untuk mengambil data bahasa pemrograman dari repositori.
 
-## Penggunaan
+```javascript
+// Fungsi untuk mendapatkan bahasa dari repositori GitHub
+function getLanguages() {
+  const repoUrl = 'https://api.github.com/repos/username/repository-name/languages';
+  
+  fetch(repoUrl)
+    .then(response => response.json())
+    .then(data => {
+      // Menampilkan bahasa pemrograman yang digunakan
+      const languages = Object.keys(data);
+      console.log('Bahasa pemrograman yang digunakan:');
+      languages.forEach(language => {
+        console.log(language);
+      });
+    })
+    .catch(error => {
+      console.error('Error fetching language data:', error);
+    });
+}
 
-1. **Deteksi Bahasa**: Cukup masukkan teks di kolom yang tersedia, dan bahasa yang digunakan akan terdeteksi secara otomatis.
-   
-2. **Pengikut**: Lihat jumlah pengikut Anda dengan login ke akun sosial media dan akses informasi pengikut menggunakan API.
-
-3. **Sosial Media**: Klik ikon sosial media yang ada di aplikasi untuk mengakses profil Anda.
-
-### Ikon Sosial Media
-
-- **Twitter**: ![Twitter](https://img.shields.io/badge/Twitter-follow-blue)
-- **Instagram**: ![Instagram](https://img.shields.io/badge/Instagram-follow-pink)
-- **Facebook**: ![Facebook](https://img.shields.io/badge/Facebook-follow-blue)
-- **LinkedIn**: ![LinkedIn](https://img.shields.io
+// Memanggil fungsi untuk mendeteksi bahasa pemrograman
+getLanguages();
