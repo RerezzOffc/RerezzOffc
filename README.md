@@ -1,6 +1,6 @@
 # Profil X-Rezz
 
-##Berikut adalah tampilan dari beberapa bagian di profil saya:
+## Berikut adalah tampilan dari beberapa bagian di profil saya:
 
 ### Statistik GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RerezzOffc&show_icons=true&theme=radical&count_private=true&hide=prs,issues&include_all_commits=true)
