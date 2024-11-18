@@ -11,15 +11,6 @@
 ### Bahasa yang Digunakan
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RerezzOffc&langs_count=6&theme=radical&layout=compact)
 
-## Kontribusi
-
-- **Total Kontribusi**: 196
-- **Streak Saat Ini (Nov 11 - Nov 15)**: 5 hari
-- **Streak Terpanjang (Sep 13 - Sep 17)**: 5 hari
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kontak
 
