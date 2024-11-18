@@ -1,52 +1,55 @@
-### Hi there 👋
-#### I am Rhythm  :)
+# My Awesome Project
 
-- 💬 Ask me about react, android,node,javascript.
+Selamat datang di **My Awesome Project**! Proyek ini memiliki beberapa fitur canggih yang akan mempermudah Anda dalam menggunakan aplikasi.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RerezzOffc&label=Views&color=blue&style=plastic" alt="ritmojs" /> </p>
+## Fitur Utama
 
-<div align="center">
+### 1. **Deteksi Bahasa**
+Fitur deteksi bahasa akan secara otomatis mendeteksi bahasa teks yang dimasukkan oleh pengguna. Anda hanya perlu memasukkan teks, dan sistem akan menampilkan bahasa yang digunakan.
 
-[![GitHub RerezzOffc](https://img.shields.io/github/followers/ritmojs?label=follow&style=social)](https://github.com/RerezzOffc)
+### 2. **Pengikut (Followers)**
+Aplikasi ini memungkinkan pengguna untuk melihat jumlah pengikut (followers) mereka. Fitur ini mengintegrasikan API sosial media untuk mendapatkan informasi pengikut secara real-time.
 
-</div>
+### 3. **Sosial Media dengan Ikon**
+Proyek ini menampilkan ikon sosial media yang dapat diklik, yang akan mengarahkan pengguna ke akun sosial media yang sesuai.
 
-<div align="center">
+## Instalasi
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritmojs&theme=merko)](https://github.com/RerezzOffc)
-</div>
+Untuk memulai menggunakan proyek ini, ikuti langkah-langkah berikut:
 
+1. **Clone repository ini:**
+    ```bash
+    git clone https://github.com/username/my-awesome-project.git
+    ```
 
+2. **Masuk ke direktori proyek:**
+    ```bash
+    cd my-awesome-project
+    ```
 
+3. **Instal dependensi:**
+    Jika proyek ini menggunakan `npm` atau `yarn`, jalankan:
+    ```bash
+    npm install
+    ```
 
+4. **Jalankan aplikasi:**
+    Setelah semua dependensi terpasang, jalankan aplikasi menggunakan:
+    ```bash
+    npm start
+    ```
 
+## Penggunaan
 
-<br/>
-<div align="center">
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=ritmojs&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
-</div>
-<div align="center">
-<p>Contact Me Here😊</p>
-<a href="https://t.me/rerez_x_hosting">
-  <img align="center" alt="Rhythm's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/rhythm-verma27/">
-  <img align="center" alt="Rhythm's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/RerezzOffc">
-  <img align="center" alt="Rhythm's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+1. **Deteksi Bahasa**: Cukup masukkan teks di kolom yang tersedia, dan bahasa yang digunakan akan terdeteksi secara otomatis.
+   
+2. **Pengikut**: Lihat jumlah pengikut Anda dengan login ke akun sosial media dan akses informasi pengikut menggunakan API.
 
-<a href="https://instagram.com/rezz_hosting.0208">
-  <img align="center" alt="Rhythm's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://codepen.io/ritmojs">
-  <img align="center" alt="rhythm's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-</a>
-<a  href="https://dev.to/ritmojs">
-  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rhythm's DEV Profile"  width="22px">
-</a>
-</div>
-<div align='center'>
- <p>Show some ❤️ by starring some of the repositories!<p>
-  </div>
+3. **Sosial Media**: Klik ikon sosial media yang ada di aplikasi untuk mengakses profil Anda.
+
+### Ikon Sosial Media
+
+- **Twitter**: ![Twitter](https://img.shields.io/badge/Twitter-follow-blue)
+- **Instagram**: ![Instagram](https://img.shields.io/badge/Instagram-follow-pink)
+- **Facebook**: ![Facebook](https://img.shields.io/badge/Facebook-follow-blue)
+- **LinkedIn**: ![LinkedIn](https://img.shields.io
