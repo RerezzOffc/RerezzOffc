@@ -1,26 +1,5 @@
 # Profil X-Rezz
 
-Selamat datang di profil X-Rezz! Ini adalah halaman profil yang memamerkan berbagai statistik GitHub, kontributor, dan penggunaan bahasa. Anda dapat melihat berbagai pencapaian saya melalui widget GitHub yang terintegrasi di bawah.
-
-## Fitur
-
-- Statistik GitHub yang mencakup jumlah kontribusi, streak, dan peringkat bahasa.
-- Tampilan profil yang responsif dan menarik.
-- Tautan untuk mengunjungi profil GitHub saya.
-
-## Instalasi
-
-1. Clone repositori ini ke lokal:
-    ```bash
-    git clone https://github.com/username/repository-name.git
-    ```
-
-2. Arahkan ke folder proyek:
-    ```bash
-    cd repository-name
-    ```
-
-3. Buka file `index.html` di browser favorit Anda untuk melihat profil.
 
 ## Fitur Profil
 
@@ -35,13 +14,13 @@ Selamat datang di profil X-Rezz! Ini adalah halaman profil yang memamerkan berba
 Berikut adalah tampilan dari beberapa bagian di profil saya:
 
 ### Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RerezzOfficial&show_icons=true&theme=radical&count_private=true&hide=prs,issues&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RerezzOffc&show_icons=true&theme=radical&count_private=true&hide=prs,issues&include_all_commits=true)
 
 ### Streak GitHub
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RerezzOfficial&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RerezzOffc&theme=dark&hide_border=true)
 
 ### Bahasa yang Digunakan
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RerezzOfficial&langs_count=6&theme=radical&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RerezzOffc&langs_count=6&theme=radical&layout=compact)
 
 ## Kontribusi
 
